@@ -10,4 +10,4 @@ I explored the Hotel Booking data and these are some of the key insights I uncov
 ✅ The customers were highly satisfied.  They rated the hotels on an average of 4 out of 5 stars. 
 ✅ The top three countries where the customers came from were Thailand, Singapore and Indonesia.
 
-Refer to the [!./Hotel Booking Dashboard.pdf](PDF file) for the Visualization.
+Refer to the [./Hotel Booking Dashboard.pdf](PDF file) for the Visualization.
